@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Aiza :revolving_hearts:
+### 👋Hey there!
+
+- 👩‍💻 I’m Aiza :revolving_hearts:
 - 👀 I’m interested in Full-stack development
 - 🌱 I’m currently studying at DCI
 
