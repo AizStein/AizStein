@@ -1,8 +1,7 @@
 ### 👋Hey there!
 
 - 👩‍💻 I’m Aiza :revolving_hearts:
-- 👀 I’m interested in Full-stack development
-- 🌱 I’m currently studying at DCI
+- 💻 Web developer
 
 :ok_hand: "There is nothing you can't do, if you set your mind to it"
 
